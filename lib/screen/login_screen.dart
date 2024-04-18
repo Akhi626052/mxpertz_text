@@ -2,18 +2,18 @@ import 'package:flutter/material.dart';
 import 'package:mxpertz_text/screen/register_screen.dart';
 import 'package:mxpertz_text/screen/signup_screen.dart';
 
-// void main() {
-//   runApp(MyApp());
-// }
+void main() {
+  runApp(MyApp());
+}
 
-// class MyApp extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       home: LoginScreen(),
-//     );
-//   }
-// }
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: LoginScreen(),
+    );
+  }
+}
 
 class LoginScreen extends StatelessWidget {
   @override
