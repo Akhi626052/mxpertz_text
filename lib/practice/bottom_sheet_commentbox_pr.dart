@@ -104,8 +104,4 @@ class _ListCommentScreenState extends State<ListCommentScreen> {
       },
     );
   }
-
-
-
-
 }

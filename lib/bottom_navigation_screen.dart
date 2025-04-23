@@ -101,7 +101,6 @@ class _BottomNavigationDemoState extends State<BottomNavigationDemo> {
 
 class HomeScreen extends StatelessWidget {
 
-
   List<List<String>> commentsList = [];
   String commentInput = '';
 
@@ -341,10 +340,6 @@ class HomeScreen extends StatelessWidget {
                     color: Colors.black,
                   ),
                 ),
-
-
-
-
 
 
 
